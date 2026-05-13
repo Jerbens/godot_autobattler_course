@@ -1,4 +1,4 @@
-[gd_resource type="Resource" script_class="UnitStats" load_steps=12 format=3 uid="uid://dyqvoxv3vg6hp"]
+[gd_resource type="Resource" script_class="UnitStats" format=3 uid="uid://dyqvoxv3vg6hp"]
 
 [ext_resource type="Script" uid="uid://bp143y4igd7sa" path="res://data/units/unit_stats.gd" id="1_6fqjr"]
 [ext_resource type="AudioStream" uid="uid://eyjx57qspqgj" path="res://assets/sfx/bjorn_1.ogg" id="1_poga5"]
